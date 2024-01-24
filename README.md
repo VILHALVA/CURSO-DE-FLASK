@@ -2,16 +2,9 @@
 👨‍⚖️FLASK É UM FRAMEWORK DE DESENVOLVIMENTO WEB EM PYTHON QUE FACILITA A CRIAÇÃO DE APLICATIVOS WEB.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=FLASK)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://flask.palletsprojects.com/en/3.0.x/) 
 [![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-<br>
-
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX&si=FUGyHnvwFLMqTswj)
-
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pocoo_flask_logo_icon_168045.png" align="center" width="280"> <br>
-
-![](https://i.imgur.com/waxVImv.png)
 
 # CONCEITO:
 Flask é um framework web em Python que facilita a criação de aplicações web. Ele segue a abordagem "micro" para o desenvolvimento web, o que significa que fornece apenas as funcionalidades essenciais para criar aplicações web simples e eficientes. Flask é conhecido por sua simplicidade, flexibilidade e fácil aprendizado, tornando-o uma escolha popular para desenvolvedores que desejam criar aplicações web em Python.
