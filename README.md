@@ -1,12 +1,9 @@
 # CURSO DE FLASK
 👨‍⚖️FLASK É UM FRAMEWORK DE DESENVOLVIMENTO WEB EM PYTHON QUE FACILITA A CRIAÇÃO DE APLICATIVOS WEB.
 
-[![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA) 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://flask.palletsprojects.com/en/3.0.x/) 
-[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM%20DE-PROGRAMAÇÃO-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-[![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX&si=FUGyHnvwFLMqTswj)
+<img src="FOTO.png" align="center" width="400"> <br>
 
-# CONCEITO:
+## CONCEITO:
 Flask é um framework web em Python que facilita a criação de aplicações web. Ele segue a abordagem "micro" para o desenvolvimento web, o que significa que fornece apenas as funcionalidades essenciais para criar aplicações web simples e eficientes. Flask é conhecido por sua simplicidade, flexibilidade e fácil aprendizado, tornando-o uma escolha popular para desenvolvedores que desejam criar aplicações web em Python.
 
 Principais características e conceitos do Flask:
@@ -25,8 +22,8 @@ Principais características e conceitos do Flask:
 
 Para começar a desenvolver com Flask, você cria uma instância do Flask, define rotas e funções associadas a essas rotas para lidar com as requisições HTTP. A partir daí, você pode expandir sua aplicação adicionando funcionalidades como formulários, autenticação, interação com bancos de dados, entre outras.
 
-# CARACTERISTICAS:
-## POSITIVAS:
+## CARACTERISTICAS:
+### POSITIVAS:
 1. **Simplicidade:** Flask é conhecido por sua simplicidade. Ele oferece apenas o essencial para criar aplicações web, o que facilita o aprendizado e a utilização, especialmente para desenvolvedores iniciantes.
 
 2. **Flexibilidade:** O framework é bastante flexível, permitindo que os desenvolvedores escolham suas próprias ferramentas e bibliotecas para tarefas específicas, como bancos de dados, autenticação, e templates.
@@ -37,7 +34,7 @@ Para começar a desenvolver com Flask, você cria uma instância do Flask, defin
 
 5. **Desenvolvimento Rápido:** Graças à sua simplicidade, Flask permite o desenvolvimento rápido de aplicações web. É fácil criar protótipos e lançar rapidamente projetos.
 
-## NEGATIVAS:
+### NEGATIVAS:
 1. **Menos Opinião por Padrão:** Como um microframework, Flask deixa muitas decisões de design para os desenvolvedores. Enquanto isso oferece flexibilidade, pode resultar em mais trabalho para escolher e configurar bibliotecas adicionais para tarefas específicas.
 
 2. **Ausência de Estrutura Padrão:** Flask não impõe uma estrutura de projeto específica. Isso pode ser positivo para projetos pequenos, mas em projetos maiores, os desenvolvedores podem sentir falta de uma estrutura mais definida.
@@ -47,3 +44,9 @@ Para começar a desenvolver com Flask, você cria uma instância do Flask, defin
 4. **Menos Recursos Prontos para Uso:** Em comparação com frameworks mais abrangentes, Flask pode exigir mais trabalho manual ou a integração de extensões para tarefas específicas, como autenticação, administração e manipulação de formulários.
 
 5. **Não é uma Solução "Baterias Inclusas":** Se você procura uma solução "baterias inclusas", onde a maioria das decisões de design são tomadas por padrão, você pode achar que Flask exige mais configuração e escolhas por parte do desenvolvedor.
+
+## SUBSIDIOS:
+- [CURSO CRIADO PELO "JÚLIA RIZZA"](https://youtube.com/playlist?list=PL3BqW_m3m6a05ALSBW02qDXmfDKIip2KX&si=FUGyHnvwFLMqTswj)
+- [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
+- [VEJA A DOCUMENTAÇÃO](https://flask.palletsprojects.com/en/3.0.x/)
+- [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
