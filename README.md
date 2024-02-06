@@ -3,7 +3,7 @@
 
 <img src="FOTO.png" align="center" width="400"> <br>
 
-## CONCEITO:
+## CONCEITO E MAIS:
 Flask é um framework web em Python que facilita a criação de aplicações web. Ele segue a abordagem "micro" para o desenvolvimento web, o que significa que fornece apenas as funcionalidades essenciais para criar aplicações web simples e eficientes. Flask é conhecido por sua simplicidade, flexibilidade e fácil aprendizado, tornando-o uma escolha popular para desenvolvedores que desejam criar aplicações web em Python.
 
 Principais características e conceitos do Flask:
@@ -21,6 +21,25 @@ Principais características e conceitos do Flask:
 6. **Ambiente de Desenvolvimento e Produção:** Flask fornece um servidor de desenvolvimento embutido, facilitando o desenvolvimento e testes. Para ambientes de produção, é comum utilizar servidores web como o Gunicorn ou integrar o Flask a servidores WSGI, como o uWSGI.
 
 Para começar a desenvolver com Flask, você cria uma instância do Flask, define rotas e funções associadas a essas rotas para lidar com as requisições HTTP. A partir daí, você pode expandir sua aplicação adicionando funcionalidades como formulários, autenticação, interação com bancos de dados, entre outras.
+
+## SUA HISTÓRIA:
+1. **Origens (2010)**:
+   - O Flask foi criado por Armin Ronacher, conhecido por suas contribuições significativas para a comunidade de desenvolvimento Python.
+   - O desenvolvimento do Flask começou em 2010 como uma alternativa leve e minimalista aos frameworks web existentes em Python na época.
+
+2. **Filosofia e Design**:
+   - O Flask foi projetado com uma filosofia de "simplicidade e minimalismo", inspirado em frameworks como Sinatra (para Ruby) e Bottle (para Python).
+   - Seu design minimalista permite que os desenvolvedores criem aplicativos web de forma rápida e eficiente, com uma curva de aprendizado baixa e sem excesso de recursos.
+
+3. **Lançamento Público (2010)**:
+   - O Flask foi lançado publicamente em 2010 como um projeto de código aberto no GitHub.
+   - Ele ganhou rapidamente popularidade entre os desenvolvedores Python devido à sua simplicidade e flexibilidade.
+
+4. **Rápida Adoção (2010-2012)**:
+   - Nos primeiros anos após seu lançamento, o Flask foi adotado por muitos desenvolvedores e empresas para criar uma variedade de aplicativos web, desde pequenos projetos pessoais até grandes sistemas empresariais.
+
+5. **Versões Principais**:
+   - Algumas das versões mais significativas do Flask incluem a versão 0.10 (2014), que introduziu suporte para Python 3, e a versão 1.0 (2018), que marcou a estabilização da API e trouxe várias melhorias importantes.
 
 ## CARACTERISTICAS:
 ### POSITIVAS:
@@ -50,3 +69,4 @@ Para começar a desenvolver com Flask, você cria uma instância do Flask, defin
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://flask.palletsprojects.com/en/3.0.x/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
+- [VEJA A SINTAXE](./SINTAXE.md)
