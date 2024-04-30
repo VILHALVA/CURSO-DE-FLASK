@@ -107,6 +107,62 @@
 
     4. Após a conclusão da instalação, você estará pronto para executar o aplicativo Flask sem problemas de dependências ausentes.
 
+## DIRETÓRIOS:
+Abaixo está uma explicação da estrutura de diretórios no padrão Model-View-Controller (MVC):
+
+```markdown
+- projeto/
+    - __init__.py
+    - models/
+        - __init__.py
+        - user.py
+        - post.py
+    - views/
+        - __init__.py
+        - user_view.py
+        - post_view.py
+    - controllers/
+        - __init__.py
+        - user_controller.py
+        - post_controller.py
+    - templates/
+        - index.html
+        - user/
+            - profile.html
+            - settings.html
+        - post/
+            - list.html
+            - detail.html
+```
+
+### COM EXPLICAÇÃO:
+```
+- **projeto/**: Diretório raiz do projeto.
+    - **__init__.py**: Arquivo vazio que indica que o diretório é um pacote Python.
+    - **models/**: Diretório que contém os modelos de dados.
+        - **__init__.py**: Arquivo que inicializa o pacote `models`.
+        - **user.py**: Arquivo que contém o modelo de usuário.
+        - **post.py**: Arquivo que contém o modelo de postagem.
+    - **views/**: Diretório que contém as visualizações (ou controladores de apresentação).
+        - **__init__.py**: Arquivo que inicializa o pacote `views`.
+        - **user_view.py**: Arquivo que contém as visualizações relacionadas ao usuário.
+        - **post_view.py**: Arquivo que contém as visualizações relacionadas às postagens.
+    - **controllers/**: Diretório que contém os controladores.
+        - **__init__.py**: Arquivo que inicializa o pacote `controllers`.
+        - **user_controller.py**: Arquivo que contém os controladores relacionados ao usuário.
+        - **post_controller.py**: Arquivo que contém os controladores relacionados às postagens.
+    - **templates/**: Diretório que contém os templates HTML.
+        - **index.html**: Página inicial do site.
+        - **user/**: Diretório com os templates relacionados ao usuário.
+            - **profile.html**: Template para exibir o perfil do usuário.
+            - **settings.html**: Template para exibir as configurações do usuário.
+        - **post/**: Diretório com os templates relacionados às postagens.
+            - **list.html**: Template para exibir a lista de postagens.
+            - **detail.html**: Template para exibir os detalhes de uma postagem.
+```
+
+Essa é uma estrutura típica de diretórios para um projeto usando o padrão MVC em Python, onde os modelos (`models`), visualizações (`views`) e controladores (`controllers`) são separados em diretórios distintos para manter o código organizado e modular. Os templates HTML são armazenados no diretório `templates`. O arquivo `__init__.py` em cada diretório indica que eles são pacotes Python.
+
     
 
 
