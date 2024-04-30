@@ -69,5 +69,5 @@ Para começar a desenvolver com Flask, você cria uma instância do Flask, defin
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://flask.palletsprojects.com/en/3.0.x/)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-PYTHON)
-- [VEJA A SINTAXE](./SINTAXE.md)
+- [VEJA O MANUAL](./MANUAL.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=topic:FLASK)
