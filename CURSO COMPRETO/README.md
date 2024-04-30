@@ -160,7 +160,7 @@ Vamos passar pelos passos básicos para usar um modelo em Flask, usando um banco
 
    Este é um exemplo básico e há muitos outros conceitos e práticas recomendadas ao trabalhar com modelos e bancos de dados em uma aplicação Flask. Se você está construindo um aplicativo mais complexo, pode ser útil considerar o uso de extensões mais avançadas, como Flask-Migrate para gerenciar migrações de banco de dados.
 
-# 04) MIGRAÇÕES
+## 04) MIGRAÇÕES
 Quando você trabalha com bancos de dados em uma aplicação Flask, é uma boa prática usar migrações para gerenciar alterações no esquema do banco de dados ao longo do tempo. A extensão Flask-Migrate é comumente usada para facilitar esse processo.
 
 Aqui estão os passos básicos para usar Flask-Migrate:
