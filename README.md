@@ -1,7 +1,7 @@
 # CURSO DE FLASK
 👨‍⚖️FLASK É UM FRAMEWORK DE DESENVOLVIMENTO WEB EM PYTHON QUE FACILITA A CRIAÇÃO DE APLICATIVOS WEB.
 
-<img src="FOTO.png" align="center" width="400"> <br>
+<img src="IMAGEM.png" align="center" width="400"> <br>
 
 ## CONCEITO E MAIS:
 Flask é um framework web em Python que facilita a criação de aplicações web. Ele segue a abordagem "micro" para o desenvolvimento web, o que significa que fornece apenas as funcionalidades essenciais para criar aplicações web simples e eficientes. Flask é conhecido por sua simplicidade, flexibilidade e fácil aprendizado, tornando-o uma escolha popular para desenvolvedores que desejam criar aplicações web em Python.
