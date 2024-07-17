@@ -1,43 +1,12 @@
 # MANUAL
 ## INICIO:
-1. **Crie o ambiente virtual:**
-   Você pode instalar o `virtualenv` usando o `pip`, que é o gerenciador de pacotes do Python.
-
-   Para instalar o `virtualenv`, você pode executar o seguinte comando:
-
-   ```
-   pip install virtualenv
-   ```
-
-   Depois de instalar o `virtualenv`, você pode criar um novo ambiente virtual com o seguinte comando:
-
-   ```
-   virtualenv venv
-   ```
-
-   Se quiser, você pode substituir "venv" pelo nome que você deseja dar ao seu ambiente virtual (Não se esqueça de atualizar o `.gitignore`). Em seguida, você pode ativar o ambiente virtual com os seguintes comandos:
-
-   - No Windows:
-
-   ```
-   venv\Scripts\activate
-   ```
-
-   - No Linux/Mac:
-
-   ```
-   source venv/bin/activate
-   ```
-
-   Uma vez ativado o ambiente virtual, você pode tentar instalar os pacotes necessários usando o `pip`, e eles serão instalados apenas no escopo do ambiente virtual, evitando possíveis conflitos com outros pacotes no seu sistema.
-
-2. **Instale o Flask**:
+1. **Instale o Flask**:
     Antes de iniciar, você precisa instalar o Flask. Você pode fazer isso usando o pip, o gerenciador de pacotes do Python:
     ```bash
     pip install Flask
     ```
 
-3. **Crie um arquivo `app.py` e adicione o seguinte código**:
+2. **Crie um arquivo `app.py` e adicione o seguinte código**:
     Abaixo está um exemplo básico de um aplicativo Flask que cria um servidor web simples para exibir "Hello, World!" quando acessado:
 
     ```python
@@ -63,7 +32,7 @@
     - A função `hello()` simplesmente retorna a string "Hello, World!".
     - Finalmente, usamos `app.run()` para iniciar o servidor. Se o arquivo `app.py` for executado diretamente (ou seja, não importado como um módulo em outro arquivo), o servidor Flask será iniciado.
     
-4. **Executando o Aplicativo:**
+3. **Executando o Aplicativo:**
    - Após instalar as dependências, para iniciar o servidor, navegue até o diretório da raiz do seu projeto no terminal.
    - Em seguida, execute o seguinte comando para iniciar o servidor Flask:
    ```bash
