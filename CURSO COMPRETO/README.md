@@ -1,4 +1,19 @@
 # INSTRUÇÕES
+
+---
+## INDICE
+- [01) INTRODUÇÃO, INSTALAÇÃO E CONFIGURAÇÃO](./README.md#01-introdução-instalação-e-configuração)
+- [02) AMBIENTE](./README.md#02-ambiente)
+- [03) MODELS](./README.md#03-models)
+- [04) MIGRAÇÕES](./README.md#04-migrações)
+- [05) CONFIGURAÇÕES](./README.md#05-configurações)
+- [06) ROTAS](./README.md#06-rotas)
+- [07) TEMPLATES](./README.md#07-templates)
+- [08) FORMULÁRIOS](./README.md#08-formulários)
+- [09) CRUD](./README.md#09-crud)
+- [10) LOGIN](./README.md#10-login)
+---
+
 ## 01) INTRODUÇÃO, INSTALAÇÃO E CONFIGURAÇÃO
 ### Introdução:
 Flask é um framework web em Python que facilita a criação de aplicações web. Ele segue a filosofia "micro", fornecendo o mínimo necessário para começar a desenvolver, mas permitindo uma grande flexibilidade para escolher outras ferramentas e bibliotecas conforme necessário. Flask é adequado para o desenvolvimento rápido de pequenas e médias aplicações web.
